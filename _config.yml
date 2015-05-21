@@ -1,0 +1,10 @@
+name: Working with GitHub Pages
+markdown: redcarpet
+pygments: true
+authors:
+  Deane:
+    name: Catherine Deane
+    display_name: Deane
+    email: catherine.deane@vanderbilt.edu
+    twitter: CatherineADeane
+    github: CADeane
