@@ -8,3 +8,4 @@ authors:
     email: catherine.deane@vanderbilt.edu
     twitter: CatherineADeane
     github: CADeane
+    permalink: /blog/:year/:month/:day/:title
